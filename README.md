@@ -1,7 +1,7 @@
 # CSEL-302
 
 ## Introduction
-Greetings and welcome to my collection of activities and projects! Enclosed, you will discover an overview of my main projects and activities pertaining to computer courses, data science, machine learning, and quantitative methods.
+Welcome to my collection of projects and activities! A list of my main computer science, machine learning, data science, and quantitative techniques projects and activities is enclosed.
 
 ## Activities
 <ul>
